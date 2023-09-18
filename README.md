@@ -20,5 +20,6 @@
   **Generate output**:  generate a CSV file as an output that contains all the existing columns plus a new column for the inference/output for each review. I would take Clothing ID 1078 for my analysis and code(model) as it has the maximum number of reviews.
   
  **Asumptions**:
-Due to lack of computational resources i couldnt fetch the aspect and sentiment of the entire dataset .By adding pretrained aspect to menntion the rule based approach.
+Due to lack of computational resources i couldnt fetch the aspect and sentiment of the entire dataset .By adding pretrained aspects and sentiments to menntion the rule based approach.
+we are considering a binary classification as the requirement is good or bad /avaliable or not avaliable.
  
